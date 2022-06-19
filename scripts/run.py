@@ -33,28 +33,28 @@ def plot_titles(titles):
 
 def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False):
     # todo: could be removed
-    external_link = "[![](https://img.shields.io/badge/Awesome_Continual_Learning-yellow)](https://github.com/wutong8023/Awesome_Continual_Learning.git) " \
-                    "[![](https://img.shields.io/badge/Awesome_Few_Shot_learning-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning.git) " \
-                    "[![](https://img.shields.io/badge/Awesome_Information_Extraction-blue)](https://github.com/wutong8023/Awesome_Information_Extraction.git) " \
-                    "[![](https://img.shields.io/badge/Awesome_Ideas-orange)](https://github.com/wutong8023/Awesome_Ideas.git)\n\n"
-    
-    if filename.startswith("" + your_research_topic + "4nlp"):
-        str_outline = external_link
-        str_outline += "# " + your_research_topic_full_name + " Literature in NLP \n"
-    elif filename.startswith("" + your_research_topic + "4cv"):
-        str_outline = external_link
-        str_outline += "# " + your_research_topic_full_name + " Literature in CV \n"
-    else:
-        str_outline = external_link
-        str_outline += "# " + your_research_topic_full_name + " Literature \n"
-    
-    str_outline += "This repository is maintained by [{author_info}]({personal_link}). " \
-                   "Please don't hesitate to send me an email to collaborate or fix some entries (wutong8023 AT gmail.com). \n" \
+    # external_link = "[![](https://img.shields.io/badge/Awesome_Continual_Learning-yellow)](https://github.com/wutong8023/Awesome_Continual_Learning.git) " \
+    #                 "[![](https://img.shields.io/badge/Awesome_Few_Shot_learning-green)](https://github.com/wutong8023/Awesome_Few_Shot_Learning.git) " \
+    #                 "[![](https://img.shields.io/badge/Awesome_Information_Extraction-blue)](https://github.com/wutong8023/Awesome_Information_Extraction.git) " \
+    #                 "[![](https://img.shields.io/badge/Awesome_Ideas-orange)](https://github.com/wutong8023/Awesome_Ideas.git)\n\n"
+    #
+    # if filename.startswith("" + your_research_topic + "4nlp"):
+    #     str_outline = external_link
+    #     str_outline += "# " + your_research_topic_full_name + " Literature in NLP \n"
+    # elif filename.startswith("" + your_research_topic + "4cv"):
+    #     str_outline = external_link
+    #     str_outline += "# " + your_research_topic_full_name + " Literature in CV \n"
+    # else:
+    #     str_outline = external_link
+    #     str_outline += "# " + your_research_topic_full_name + " Literature \n"
+
+    str_outline = "# " + your_research_topic_full_name + " Literature \n"
+    str_outline += "This repository is maintained by [{author_1}]({personal_1_link}) and [{author_info}]({personal_link}). \n\n" \
                    "The automation script of this repo is powered by " \
                    "[Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).\n\n" \
                    "You can directly use our bibtex.bib in overleaf with this " \
                    "[link]({bib_link_overleaf}).\n\n" \
-                   "".format(author_info=author_info, personal_link=personal_link, bib_link_overleaf=bib_link_overleaf)
+                   "".format(author_1="Tongtong Wu", personal_1_link="http://wutong8023.site/", author_info=author_info, personal_link=personal_link, bib_link_overleaf=bib_link_overleaf)
     
     str_outline += dicrib + "\n\n"
     
