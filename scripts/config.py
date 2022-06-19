@@ -7,10 +7,10 @@ Time: 24-06-2021
 user_id = "JingqiKang"  # github id
 author_info = "Jingqi Kang"  # used in introduction
 personal_link = "https://#####"  # used in introduction
-repo_name = "multi-modal-event-extraction"  # repository name
+repo_name = "Multi-modal-Information-Extraction"  # repository name
 branch_name = "blob/main/"  # branch name
-your_research_topic = "MMEE"  # used for dictionary name
-your_research_topic_full_name = "multi-modal event extraction"  # used for title
+your_research_topic = "MMIE"  # used for dictionary name
+your_research_topic_full_name = "Multi-modal Information Extraction"  # used for title
 bib_link_overleaf = "https://www.overleaf.com/read/rgscdxhxbwhp"  # used for overleaf
 color = "blue"
 
@@ -27,7 +27,9 @@ fined_taxonomy = {
         ["TNNLS", "IEEE Transactions on Neural Networks and Learning Systems",
          "{IEEE} Trans. Neural Networks Learn. Syst."],
         ["IPM", "Information Processing and Managemen", "Inf. Process. Manag."],
-        ["KBS", "Knowledge-BasedSystems", "Knowl. Based Syst."]],
+        ["KBS", "Knowledge-BasedSystems", "Knowl. Based Syst."],
+        ["Applied Sciences"]
+    ],
     
     "Preprint": ["arXiv", "CoRR"],
     

@@ -8,13 +8,13 @@ You can directly use our bibtex.bib in overleaf with this [link](https://www.ove
 This page categorizes the literature by the **Published Venue**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./README.md#hyperlink)
-- [![](https://img.shields.io/badge/ACL-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./README.md#acl)
-- [![](https://img.shields.io/badge/EMNLP-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./README.md#emnlp)
-- [![](https://img.shields.io/badge/AAAI-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./README.md#aaai)
-- [![](https://img.shields.io/badge/MM-2-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./README.md#mm)
-- [![](https://img.shields.io/badge/Applied_Sciences-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./README.md#applied-sciences)
-- [![](https://img.shields.io/badge/arXiv-2-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./README.md#arxiv)
+- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/venue\README.md#hyperlink)
+- [![](https://img.shields.io/badge/ACL-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/venue\README.md#acl)
+- [![](https://img.shields.io/badge/EMNLP-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/venue\README.md#emnlp)
+- [![](https://img.shields.io/badge/AAAI-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/venue\README.md#aaai)
+- [![](https://img.shields.io/badge/MM-2-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/venue\README.md#mm)
+- [![](https://img.shields.io/badge/Applied_Sciences-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/venue\README.md#applied-sciences)
+- [![](https://img.shields.io/badge/arXiv-2-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/venue\README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md) -- [Homepage](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md)
 - [[NLP]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4nlp/./)  [[CV]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4cv/./) -- [Summary](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/./)
