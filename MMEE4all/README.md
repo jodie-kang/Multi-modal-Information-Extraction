@@ -9,6 +9,10 @@ This page categorizes the literature by the **Published Venue**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4all/./README.md#hyperlink)
+- [![](https://img.shields.io/badge/ACL-1-blue)](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4all/./README.md#acl)
+- [![](https://img.shields.io/badge/AAAI-1-blue)](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4all/./README.md#aaai)
+- [![](https://img.shields.io/badge/MM-1-blue)](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4all/./README.md#mm)
+- [![](https://img.shields.io/badge/arXiv-1-blue)](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4all/./README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//README.md) -- [Homepage](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//README.md)
 - [[NLP]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4nlp/./)  [[CV]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4cv/./) -- [Summary](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4all/./)
@@ -24,3 +28,34 @@ This page categorizes the literature by the **Published Venue**.
 - [[NLP]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4nlp/supervision)  [[CV]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4cv/supervision) -- [ Learning Paradigm](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4all/supervision)
 - [[NLP]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4nlp/time)  [[CV]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4cv/time) -- [Published Time](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4all/time)
 - [[NLP]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4nlp/venue)  [[CV]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4cv/venue) -- [Published Venue](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//MMEE4all/venue)
+
+## ACL
+
+- [![](https://img.shields.io/badge/ACL-2020-blue)](https://aclanthology.org/2020.acl-main.230) [**Cross-media Structured Common Space for Multimedia Event Extraction**](https://aclanthology.org/2020.acl-main.230) , <br> by *Li, Manling  and
+Zareian, Alireza  and
+Zeng, Qi  and
+Whitehead, Spencer  and
+Lu, Di  and
+Ji, Heng  and
+Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//./bibtex.bib#L15-L28)<br> ```Add a brief note under the bib entry
+```</details><details><summary><img src=https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_WASE_2020```
+## AAAI
+
+- [![](https://img.shields.io/badge/AAAI-2020-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/6437) [**Image Enhanced Event Detection in News Articles**](https://ojs.aaai.org/index.php/AAAI/article/view/6437) , <br> by *Tong, Meihan, Wang, Shuai, Cao, Yixin, Xu, Bin, Li, Juanzi, Hou, Lei and Chua, Tat-Seng* [[bib]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//./bibtex.bib#L31-L38)<br> ```Add a brief note under the bib entry
+```</details><details><summary><img src=https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Tong_2020_ImageEE```
+## MM
+
+- [![](https://img.shields.io/badge/MM-2017-blue)](https://doi.org/10.1145/3123266.3123294) [**Improving Event Extraction via Multimodal Integration**](https://doi.org/10.1145/3123266.3123294) , <br> by *Zhang, Tongtao, Whitehead, Spencer, Zhang, Hanwang, Li, Hongzhi, Ellis, Joseph, Huang, Lifu, Liu, Wei, Ji, Heng and Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//./bibtex.bib#L4-L12)<br> ```Add a brief note under the bib entry
+```</details><details><summary><img src=https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Zhang_VAD_2017```
+## arXiv
+
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://arxiv.org/abs/2201.05078) [**CLIP-Event: Connecting Text and Images with Event Structures**](https://arxiv.org/abs/2201.05078) , <br> by *Manling Li and
+Ruochen Xu and
+Shuohang Wang and
+Luowei Zhou and
+Xudong Lin and
+Chenguang Zhu and
+Michael Zeng and
+Heng Ji and
+Shih{-}Fu Chang* [[bib]](https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//./bibtex.bib#L42-L59)<br> ```Add a brief note under the bib entry
+```</details><details><summary><img src=https://github.com/JingqiKang/multi-modal-event-extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_Clip_Event_2022```
