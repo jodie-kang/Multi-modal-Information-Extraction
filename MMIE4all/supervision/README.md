@@ -9,6 +9,7 @@ This page categorizes the literature by the **Learning Paradigm**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/supervision\README.md#hyperlink)
+- [![](https://img.shields.io/badge/Few_shot_Learning-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/supervision\README.md#few-shot-learning)
 ## Hyperlink 
 - [[Overview]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md) -- [Homepage](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md)
 - [[NLP]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4nlp/./)  [[CV]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4cv/./) -- [Summary](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/./)
@@ -24,3 +25,15 @@ This page categorizes the literature by the **Learning Paradigm**.
 - [[NLP]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4nlp/supervision)  [[CV]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4cv/supervision) -- [ Learning Paradigm](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/supervision)
 - [[NLP]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4nlp/time)  [[CV]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4cv/time) -- [Published Time](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/time)
 - [[NLP]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4nlp/venue)  [[CV]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4cv/venue) -- [Published Venue](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/venue)
+
+## Few-shot Learning
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2110.04544) [**CLIP-Adapter: Better Vision-Language Models with Feature Adapters**](https://arxiv.org/abs/2110.04544) , <br> by *Peng Gao and
+Shijie Geng and
+Renrui Zhang and
+Teli Ma and
+Rongyao Fang and
+Yongfeng Zhang and
+Hongsheng Li and
+Yu Qiao* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L159-L179)<br> ```This paper is inspired by Adapter in order to transfer the knowledge of CLIP in order to implement Few-shot classification
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CLIP-Adapter_2021```

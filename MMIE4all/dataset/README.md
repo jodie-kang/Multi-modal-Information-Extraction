@@ -10,11 +10,14 @@ This page categorizes the literature by the **Dataset**.
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#hyperlink)
 - [![](https://img.shields.io/badge/ACE2005-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#ace2005)
+- [![](https://img.shields.io/badge/ADE20K-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#ade20k)
+- [![](https://img.shields.io/badge/COCO-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#coco)
 - [![](https://img.shields.io/badge/ERE-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#ere)
 - [![](https://img.shields.io/badge/M2E2-2-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#m2e2)
 - [![](https://img.shields.io/badge/MNER-2-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#mner)
 - [![](https://img.shields.io/badge/MRE-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#mre)
 - [![](https://img.shields.io/badge/VM2E2-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#vm2e2)
+- [![](https://img.shields.io/badge/VOANews-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/dataset\README.md#voanews)
 ## Hyperlink 
 - [[Overview]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md) -- [Homepage](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md)
 - [[NLP]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4nlp/./)  [[CV]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4cv/./) -- [Summary](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/./)
@@ -35,6 +38,28 @@ This page categorizes the literature by the **Dataset**.
 
 - [![](https://img.shields.io/badge/MM-2017-blue)](https://doi.org/10.1145/3123266.3123294) [**Improving Event Extraction via Multimodal Integration**](https://doi.org/10.1145/3123266.3123294) , <br> by *Zhang, Tongtao, Whitehead, Spencer, Zhang, Hanwang, Li, Hongzhi, Ellis, Joseph, Huang, Lifu, Liu, Wei, Ji, Heng and Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L2-L10)<br> ```The first paper to do multimodal event extraction
 ```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Zhang_VAD_2017```
+## ADE20K
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2112.01518) [**DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**](https://arxiv.org/abs/2112.01518) , <br> by *Yongming Rao and
+Wenliang Zhao and
+Guangyi Chen and
+Yansong Tang and
+Zheng Zhu and
+Guan Huang and
+Jie Zhou and
+Jiwen Lu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L201-L221)<br> ```This paper proposes an instance-level prompt, where each data corresponds to a different prompt
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```DenseCLIP_2021```
+## COCO
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2112.01518) [**DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**](https://arxiv.org/abs/2112.01518) , <br> by *Yongming Rao and
+Wenliang Zhao and
+Guangyi Chen and
+Yansong Tang and
+Zheng Zhu and
+Guan Huang and
+Jie Zhou and
+Jiwen Lu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L201-L221)<br> ```This paper proposes an instance-level prompt, where each data corresponds to a different prompt
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```DenseCLIP_2021```
 ## ERE
 
 - [![](https://img.shields.io/badge/MM-2017-blue)](https://doi.org/10.1145/3123266.3123294) [**Improving Event Extraction via Multimodal Integration**](https://doi.org/10.1145/3123266.3123294) , <br> by *Zhang, Tongtao, Whitehead, Spencer, Zhang, Hanwang, Li, Hongzhi, Ellis, Joseph, Huang, Lifu, Liu, Wei, Ji, Heng and Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L2-L10)<br> ```The first paper to do multimodal event extraction
@@ -79,3 +104,15 @@ Chum, Lovish  and
 Ji, Heng  and
 Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L30-L45)<br> ```This paper proposes a new task of video multimodal event extraction
 ```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```chen-etal-2021-joint-multimedia-event```
+## VOANews
+
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://arxiv.org/abs/2201.05078) [**CLIP-Event: Connecting Text and Images with Event Structures**](https://arxiv.org/abs/2201.05078) , <br> by *Manling Li and
+Ruochen Xu and
+Shuohang Wang and
+Luowei Zhou and
+Xudong Lin and
+Chenguang Zhu and
+Michael Zeng and
+Heng Ji and
+Shih{-}Fu Chang* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L93-L110)<br> ```This paper is inspired by CLIP using the Contrast Learning Framework, a method for connecting text and images using event structures
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_Clip_Event_2022```

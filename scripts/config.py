@@ -41,11 +41,11 @@ fined_taxonomy = {
     "Area": ["CV", "NLP", "Multi-Modal"],
 
     # 3: Supervision
-    "Supervision": ["Supervised Learning",
+    "Supervision": ["Supervised Learning", "Few-shot Learning",
                     "Other Learning Paradigm"],
 
     # 4: Application
-    "Application": ["Relation Extraction", "Event Extraction",
+    "Application": ["Relation Extraction", "Event Extraction", "Pre-training",
                     "Other Application", ],
 
     # 5: Approach
@@ -53,6 +53,8 @@ fined_taxonomy = {
                  "WASE", "AMR Graph", "Situation Graph", "GCN",
                  "Alternating Dual Attention",
                  "Prompt",
+                 "Contrastive Learning",
+                 "Adapter",
                  "Other Approach"],
 
     # 6: Whether need memory
@@ -64,16 +66,18 @@ fined_taxonomy = {
                 "Class Incremental", "N-way K-shot", "Other Setting"],
 
     # 8: Research Question
-    "RQs": {"Catastrophic Forgetting", "Order Sensitivity", "Few-shot Adaptation", "Others RQs"},
+    "RQs": {"Image-Text", "Video-Text",
+            "Catastrophic Forgetting", "Order Sensitivity", "Few-shot Adaptation", "Others RQs"},
 
     # 9: Backbone
-    "Backbone": ["BERT-base", "Gaia",
-                 "ResNet50", "Faster R-CNN",
+    "Backbone": ["BERT-base", "Gaia", "Transformer",
+                 "ResNet50", "Faster R-CNN", "Vision Transformer(ViT)",
                  "BERTs", "Transformers", "Adapter", "RNNs", "CNNs", "GNNs", "Attentions", "Capsule Net",
                  "Probabilistic Graphical Model", "VAEs", "Other Structure"],
 
     # 10: Dataset
-    "Dataset": ["ACE2005", "ERE", "M2E2", "VM2E2", "MNER", "MRE", "VOANews"
+    "Dataset": ["ACE2005", "ERE", "M2E2", "VM2E2", "MNER", "MRE", "VOANews",
+                "ADE20K", "COCO",
                 "Other Dataset"
                 ],
 

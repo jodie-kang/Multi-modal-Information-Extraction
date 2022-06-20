@@ -15,7 +15,9 @@ This page categorizes the literature by the **Continual Learning Approach**.
 - [![](https://img.shields.io/badge/Situation_Graph-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/approach\README.md#situation-graph)
 - [![](https://img.shields.io/badge/GCN-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/approach\README.md#gcn)
 - [![](https://img.shields.io/badge/Alternating_Dual_Attention-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/approach\README.md#alternating-dual-attention)
-- [![](https://img.shields.io/badge/Prompt-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/approach\README.md#prompt)
+- [![](https://img.shields.io/badge/Prompt-6-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/approach\README.md#prompt)
+- [![](https://img.shields.io/badge/Contrastive_Learning-5-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/approach\README.md#contrastive-learning)
+- [![](https://img.shields.io/badge/Adapter-1-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/approach\README.md#adapter)
 ## Hyperlink 
 - [[Overview]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md) -- [Homepage](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md)
 - [[NLP]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4nlp/./)  [[CV]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4cv/./) -- [Summary](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/./)
@@ -84,3 +86,100 @@ Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Ex
 
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://arxiv.org/abs/2205.03521) [**Good Visual Guidance Makes A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction**](https://arxiv.org/abs/2205.03521) , <br> by *Chen, Xiang, Zhang, Ningyu, Li, Lei, Yao, Yunzhi, Deng, Shumin, Tan, Chuanqi, Huang, Fei, Si, Luo and Chen, Huajun* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L81-L88)<br> ```This paper proposes visual prefix-guided fusion by concatenating object-level visual representation as the prefix of each self-attention layer in BERT
 ```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Chen_2022_HVPNeT```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2103.00020) [**Learning Transferable Visual Models From Natural Language Supervision**](https://arxiv.org/abs/2103.00020) , <br> by *Alec Radford and
+Jong Wook Kim and
+Chris Hallacy and
+Aditya Ramesh and
+Gabriel Goh and
+Sandhini Agarwal and
+Girish Sastry and
+Amanda Askell and
+Pamela Mishkin and
+Jack Clark and
+Gretchen Krueger and
+Ilya Sutskever* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L114-L134)<br> ```This paper proposes to learn a multimodal embedding space by jointly training an image encoder and a text encoder
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CLIP_2021```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2112.04478) [**Prompting Visual-Language Models for Efficient Video Understanding**](https://arxiv.org/abs/2112.04478) , <br> by *Chen Ju and
+Tengda Han and
+Kunhao Zheng and
+Ya Zhang and
+Weidi Xie* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L137-L155)<br> ```This paper upgrades CLIP image encoder to video encoder
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CLIP_Video_2021```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2110.04544) [**CLIP-Adapter: Better Vision-Language Models with Feature Adapters**](https://arxiv.org/abs/2110.04544) , <br> by *Peng Gao and
+Shijie Geng and
+Renrui Zhang and
+Teli Ma and
+Rongyao Fang and
+Yongfeng Zhang and
+Hongsheng Li and
+Yu Qiao* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L159-L179)<br> ```This paper is inspired by Adapter in order to transfer the knowledge of CLIP in order to implement Few-shot classification
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CLIP-Adapter_2021```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2109.01134) [**Learning to Prompt for Vision-Language Models**](https://arxiv.org/abs/2109.01134) , <br> by *Kaiyang Zhou and
+Jingkang Yang and
+Chen Change Loy and
+Ziwei Liu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L182-L198)<br> ```This paper proposes to learn soft prompts represented by continuous context vectors, replacing the hand-designed Prompt in CLIP
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CoOp_2021```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2112.01518) [**DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**](https://arxiv.org/abs/2112.01518) , <br> by *Yongming Rao and
+Wenliang Zhao and
+Guangyi Chen and
+Yansong Tang and
+Zheng Zhu and
+Guan Huang and
+Jie Zhou and
+Jiwen Lu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L201-L221)<br> ```This paper proposes an instance-level prompt, where each data corresponds to a different prompt
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```DenseCLIP_2021```
+## Contrastive Learning
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2103.00020) [**Learning Transferable Visual Models From Natural Language Supervision**](https://arxiv.org/abs/2103.00020) , <br> by *Alec Radford and
+Jong Wook Kim and
+Chris Hallacy and
+Aditya Ramesh and
+Gabriel Goh and
+Sandhini Agarwal and
+Girish Sastry and
+Amanda Askell and
+Pamela Mishkin and
+Jack Clark and
+Gretchen Krueger and
+Ilya Sutskever* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L114-L134)<br> ```This paper proposes to learn a multimodal embedding space by jointly training an image encoder and a text encoder
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CLIP_2021```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2112.04478) [**Prompting Visual-Language Models for Efficient Video Understanding**](https://arxiv.org/abs/2112.04478) , <br> by *Chen Ju and
+Tengda Han and
+Kunhao Zheng and
+Ya Zhang and
+Weidi Xie* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L137-L155)<br> ```This paper upgrades CLIP image encoder to video encoder
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CLIP_Video_2021```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2110.04544) [**CLIP-Adapter: Better Vision-Language Models with Feature Adapters**](https://arxiv.org/abs/2110.04544) , <br> by *Peng Gao and
+Shijie Geng and
+Renrui Zhang and
+Teli Ma and
+Rongyao Fang and
+Yongfeng Zhang and
+Hongsheng Li and
+Yu Qiao* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L159-L179)<br> ```This paper is inspired by Adapter in order to transfer the knowledge of CLIP in order to implement Few-shot classification
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CLIP-Adapter_2021```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2109.01134) [**Learning to Prompt for Vision-Language Models**](https://arxiv.org/abs/2109.01134) , <br> by *Kaiyang Zhou and
+Jingkang Yang and
+Chen Change Loy and
+Ziwei Liu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L182-L198)<br> ```This paper proposes to learn soft prompts represented by continuous context vectors, replacing the hand-designed Prompt in CLIP
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CoOp_2021```
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2112.01518) [**DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting**](https://arxiv.org/abs/2112.01518) , <br> by *Yongming Rao and
+Wenliang Zhao and
+Guangyi Chen and
+Yansong Tang and
+Zheng Zhu and
+Guan Huang and
+Jie Zhou and
+Jiwen Lu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L201-L221)<br> ```This paper proposes an instance-level prompt, where each data corresponds to a different prompt
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```DenseCLIP_2021```
+## Adapter
+
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2110.04544) [**CLIP-Adapter: Better Vision-Language Models with Feature Adapters**](https://arxiv.org/abs/2110.04544) , <br> by *Peng Gao and
+Shijie Geng and
+Renrui Zhang and
+Teli Ma and
+Rongyao Fang and
+Yongfeng Zhang and
+Hongsheng Li and
+Yu Qiao* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L159-L179)<br> ```This paper is inspired by Adapter in order to transfer the knowledge of CLIP in order to implement Few-shot classification
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```CLIP-Adapter_2021```

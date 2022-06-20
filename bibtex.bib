@@ -6,7 +6,7 @@
     year = {2017},
     url = {https://doi.org/10.1145/3123266.3123294},
     pages = {270–278},
-    keywords = {Event Extraction, New Task, Visual Pattern Discovery, ACE2005, ERE},
+    keywords = {Event Extraction, Image-Text, New Task, Visual Pattern Discovery, ACE2005, ERE},
     }
     @String(Zhang_VAD_2017="The first paper to do multimodal event extraction")
 
@@ -23,7 +23,7 @@
     year = "2020",
     url = "https://aclanthology.org/2020.acl-main.230",
     pages = "2557--2568",
-    keywords = {Event Extraction, New Task, Vision-Language, WASE, AMR Graph, Situation Graph, GCN, M2E2, New Dataset},
+    keywords = {Event Extraction, Image-Text, New Task, Vision-Language, WASE, AMR Graph, Situation Graph, GCN, M2E2, New Dataset},
     }
     @String(li-etal-2020-cross="The first paper to define a multimodal event extraction task")
 
@@ -41,7 +41,7 @@
     year = "2021",
     url = "https://aclanthology.org/2021.findings-emnlp.8",
     pages = "74--88",
-    keywords = {Event Extraction, New Task, Video-Language, VM2E2},
+    keywords = {Event Extraction, New Task, Video-Text, VM2E2},
     }
     @String(chen-etal-2021-joint-multimedia-event="This paper proposes a new task of video multimodal event extraction")
 
@@ -52,7 +52,7 @@
     year = "2020",
     url = "https://ojs.aaai.org/index.php/AAAI/article/view/6437",
     pages={9040-9047},
-    keywords = {Event Extraction, Vision-Language, Alternating Dual Attention},
+    keywords = {Event Extraction, Image-Text, Alternating Dual Attention},
     }
     @String(Tong_Wang_Cao_Xu_Li_Hou_Chua_2020="This paper proposes a multimodal fusion method with alternating dual attention")
 
@@ -74,7 +74,7 @@
     year = {2021},
     url = {https://doi.org/10.1145/3474085.3476968},
     booktitle = {Proceedings of MM},
-    keywords = {Relation Extraction, Scene Graph, Syntax Parser Tree, BERT, MNER, New Dataset}
+    keywords = {Relation Extraction, Image-Text, Scene Graph, Syntax Parser Tree, BERT, MNER, New Dataset}
     }
     @String(Zheng_2021_MEGA="This paper proposes a Multimodal Neural Network with Efficient Graph Alignment (MEGA) method for relation extraction in social media posts")
 
@@ -84,7 +84,7 @@
     journal = {CoRR},
     year = {2022},
     url = {https://arxiv.org/abs/2205.03521},
-    keywords = {Relation Extraction, Prompt, ResNet50, BERT-base, Low-resource, Cross-task, MNER, MRE}
+    keywords = {Relation Extraction, Image-Text, Prompt, ResNet50, BERT-base, Low-resource, Cross-task, MNER, MRE}
   }
   @String(Chen_2022_HVPNeT="This paper proposes visual prefix-guided fusion by concatenating object-level visual representation as the prefix of each self-attention layer in BERT")
 
@@ -106,6 +106,117 @@
   url       = {https://arxiv.org/abs/2201.05078},
   biburl    = {https://dblp.org/rec/journals/corr/abs-2201-05078.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-  keywords = {Event Extraction, Gaia, Faster R-CNN, VOANews}
+  keywords = {Event Extraction, Image-Text, Gaia, Faster R-CNN, VOANews}
   }
   @String(Li_Clip_Event_2022="This paper is inspired by CLIP using the Contrast Learning Framework, a method for connecting text and images using event structures")
+
+
+@article{CLIP_2021,
+  author    = {Alec Radford and
+               Jong Wook Kim and
+               Chris Hallacy and
+               Aditya Ramesh and
+               Gabriel Goh and
+               Sandhini Agarwal and
+               Girish Sastry and
+               Amanda Askell and
+               Pamela Mishkin and
+               Jack Clark and
+               Gretchen Krueger and
+               Ilya Sutskever},
+  title     = {Learning Transferable Visual Models From Natural Language Supervision},
+  journal   = {CoRR},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2103.00020},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2103-00020.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords = {Pre-training, Image-Text, Contrastive Learning, ResNet50, Vision Transformer(ViT), Transformer, Prompt}
+}
+    @string{CLIP_2021 = "This paper proposes to learn a multimodal embedding space by jointly training an image encoder and a text encoder" }
+
+@article{CLIP_Video_2021,
+  author    = {Chen Ju and
+               Tengda Han and
+               Kunhao Zheng and
+               Ya Zhang and
+               Weidi Xie},
+  title     = {Prompting Visual-Language Models for Efficient Video Understanding},
+  journal   = {CoRR},
+  volume    = {abs/2112.04478},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2112.04478},
+  eprinttype = {arXiv},
+  eprint    = {2112.04478},
+  timestamp = {Mon, 13 Dec 2021 17:51:48 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2112-04478.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+
+  keywords = {Pre-training, Contrastive Learning, Video-Text, Vision Transformer(ViT), Prompt}
+}
+    @string{CLIP_Video_2021 = "This paper upgrades CLIP image encoder to video encoder" }
+
+
+@article{CLIP-Adapter_2021,
+  author    = {Peng Gao and
+               Shijie Geng and
+               Renrui Zhang and
+               Teli Ma and
+               Rongyao Fang and
+               Yongfeng Zhang and
+               Hongsheng Li and
+               Yu Qiao},
+  title     = {CLIP-Adapter: Better Vision-Language Models with Feature Adapters},
+  journal   = {CoRR},
+  volume    = {abs/2110.04544},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2110.04544},
+  eprinttype = {arXiv},
+  eprint    = {2110.04544},
+  timestamp = {Thu, 21 Oct 2021 16:20:08 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2110-04544.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+    keywords = {Pre-training, Image-Text, Contrastive Learning, Few-shot Learning, Adapter, ResNet50, BERT, Prompt}
+}
+    @string{CLIP-Adapter_2021 = "This paper is inspired by Adapter in order to transfer the knowledge of CLIP in order to implement Few-shot classification" }
+
+@article{CoOp_2021,
+  author    = {Kaiyang Zhou and
+               Jingkang Yang and
+               Chen Change Loy and
+               Ziwei Liu},
+  title     = {Learning to Prompt for Vision-Language Models},
+  journal   = {CoRR},
+  volume    = {abs/2109.01134},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2109.01134},
+  eprinttype = {arXiv},
+  eprint    = {2109.01134},
+  timestamp = {Mon, 20 Sep 2021 16:29:41 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2109-01134.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+    keywords = {Pre-training, Image-Text, Contrastive Learning, Few-Shot Learning, Prompt}
+}
+    @string{CoOp_2021="This paper proposes to learn soft prompts represented by continuous context vectors, replacing the hand-designed Prompt in CLIP"}
+
+@article{DenseCLIP_2021,
+  author    = {Yongming Rao and
+               Wenliang Zhao and
+               Guangyi Chen and
+               Yansong Tang and
+               Zheng Zhu and
+               Guan Huang and
+               Jie Zhou and
+               Jiwen Lu},
+  title     = {DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting},
+  journal   = {CoRR},
+  volume    = {abs/2112.01518},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2112.01518},
+  eprinttype = {arXiv},
+  eprint    = {2112.01518},
+  timestamp = {Tue, 07 Dec 2021 12:15:54 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2112-01518.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+    keywords = {Pre-training, Image-Text, Contrastive Learning, Prompt, Semantic Segmentation, Object Detection, Instance Segmentation, ADE20K, COCO}
+}
+    @string{DenseCLIP_2021 = "This paper proposes an instance-level prompt, where each data corresponds to a different prompt" }
