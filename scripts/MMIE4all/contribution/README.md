@@ -5,10 +5,10 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/gszxbvbkprfs).
 
-This page categorizes the literature by the **Metrics**, filtered by CV area.
+This page categorizes the literature by the Contribution.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4cv/metrics\README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/contribution\README.md#hyperlink)
 ## Hyperlink 
 - [[Overview]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md) -- [Homepage](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//README.md)
 - [[NLP]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4nlp/./)  [[CV]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4cv/./) -- [Summary](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//MMIE4all/./)

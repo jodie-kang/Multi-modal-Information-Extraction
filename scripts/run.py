@@ -3,7 +3,9 @@ import bibtexparser
 from config import *
 
 file_name = 'bibtex.bib'
-with open(file_name) as bibtex_file:
+# with open(file_name) as bibtex_file:
+#     bibtex_str = bibtex_file.read()
+with open(file_name, mode='r', encoding="utf-8") as bibtex_file:
     bibtex_str = bibtex_file.read()
 bib_db = bibtexparser.loads(bibtex_str, parser=bibtexparser.bparser.BibTexParser(ignore_nonstandard_types=False))
 
@@ -19,7 +21,7 @@ def check_repetition(DB=bib_db):
         else:
             bib_dict[title] = 1
     repet_bib = [i for i in bib_dict.keys() if bib_dict[i] > 1]
-    
+
     if len(repet_bib) != 0:
         print("Attention! Repetition detected in the bibtex file! Please check the following entries:")
         print("---------------------------")
@@ -55,31 +57,31 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
                    "You can directly use our bibtex.bib in overleaf with this " \
                    "[link]({bib_link_overleaf}).\n\n" \
                    "".format(author_1="Tongtong Wu", personal_1_link="http://wutong8023.site/", author_info=author_info, personal_link=personal_link, bib_link_overleaf=bib_link_overleaf)
-    
+
     str_outline += dicrib + "\n\n"
-    
+
     str_outline += "## Outline \n"
-    
+
     if add_hyperlink:
         hyperlink = f"![](https://img.shields.io/badge/Hyperlink-{color})"
         link = base_link + filename + '#hyperlink'
         str_outline += "- [" + hyperlink + "](" + link + ')\n'
-    
+
     for i, item in enumerate(list_classif):
         paper_number = "![](https://img.shields.io/badge/{}-{}-{})".format(
             item[0].replace(" ", "_").replace("-", "_"), str(count_list[i]), color)
         link = base_link + "" + filename + "#" + item[0].replace(" ", "-").lower()
         paper_number = "[{}]({})".format(paper_number, link)
-        
+
         str_outline += "- " + paper_number + '\n'
-    
+
     return str_outline
 
 def get_hyperlink(hyperlinks, mapping_name):
     str_hyperlink = "## Hyperlink \n"
-    
+
     hyperlinks = sorted(hyperlinks)
-    
+
     # Note: please check the branch name carefully!
     str_hyperlink += f"- [[Overview]]({base_link}README.md) -- [Homepage]({base_link}README.md)\n"
     for i, item in enumerate(hyperlinks):
@@ -91,8 +93,9 @@ def get_hyperlink(hyperlinks, mapping_name):
         str_hyperlink += f"[[NLP]]({base_link + your_research_topic}4nlp/{item})"
         str_hyperlink += f"  [[CV]]({base_link + your_research_topic}4cv/{item})"
         str_hyperlink += f" -- [{mapping_name[item]}]({base_link + your_research_topic}4all/{item})\n"
-    
+
     return str_hyperlink
+
 
 def plot_content(index, keys, dir_path, disc, list_type, plot_titles=plot_titles, sub_dirs=None, mapping_name=None):
     generate_md_file(DB=bib_db, list_classif=list_type, key=keys, plot_title_fct=plot_titles,

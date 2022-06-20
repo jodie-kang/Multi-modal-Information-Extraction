@@ -3,7 +3,7 @@ This repository is maintained by [Tongtong Wu](http://wutong8023.site/) and [Jin
 
 The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
-You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
+You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/gszxbvbkprfs).
 
 This page categorizes the literature by the **Author**.
 
@@ -40,7 +40,7 @@ Xudong Lin and
 Chenguang Zhu and
 Michael Zeng and
 Heng Ji and
-Shih{-}Fu Chang* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L94-L111)<br> ```Add a brief note under the bib entry
+Shih{-}Fu Chang* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L93-L110)<br> ```This paper is inspired by CLIP using the Contrast Learning Framework, a method for connecting text and images using event structures
 ```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_Clip_Event_2022```
 - [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://aclanthology.org/2021.findings-emnlp.8) [**Joint Multimedia Event Extraction from Video and Article**](https://aclanthology.org/2021.findings-emnlp.8) , <br> by *Chen, Brian  and
 Lin, Xudong  and
@@ -49,17 +49,17 @@ Li, Manling  and
 Yoshida, Shoya  and
 Chum, Lovish  and
 Ji, Heng  and
-Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L43-L57)<br> ```Add a brief note under the bib entry
-```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Chen_2021_Video```
+Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L30-L45)<br> ```This paper proposes a new task of video multimodal event extraction
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```chen-etal-2021-joint-multimedia-event```
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://aclanthology.org/2020.acl-main.230) [**Cross-media Structured Common Space for Multimedia Event Extraction**](https://aclanthology.org/2020.acl-main.230) , <br> by *Li, Manling  and
 Zareian, Alireza  and
 Zeng, Qi  and
 Whitehead, Spencer  and
 Lu, Di  and
 Ji, Heng  and
-Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L17-L30)<br> ```Add a brief note under the bib entry
-```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_WASE_2020```
-- [![](https://img.shields.io/badge/MM-2017-blue)](https://doi.org/10.1145/3123266.3123294) [**Improving Event Extraction via Multimodal Integration**](https://doi.org/10.1145/3123266.3123294) , <br> by *Zhang, Tongtao, Whitehead, Spencer, Zhang, Hanwang, Li, Hongzhi, Ellis, Joseph, Huang, Lifu, Liu, Wei, Ji, Heng and Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L6-L14)<br> ```Add a brief note under the bib entry
+Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L13-L27)<br> ```The first paper to define a multimodal event extraction task
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```li-etal-2020-cross```
+- [![](https://img.shields.io/badge/MM-2017-blue)](https://doi.org/10.1145/3123266.3123294) [**Improving Event Extraction via Multimodal Integration**](https://doi.org/10.1145/3123266.3123294) , <br> by *Zhang, Tongtao, Whitehead, Spencer, Zhang, Hanwang, Li, Hongzhi, Ellis, Joseph, Huang, Lifu, Liu, Wei, Ji, Heng and Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L2-L10)<br> ```The first paper to do multimodal event extraction
 ```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Zhang_VAD_2017```
 ## Manling Li
 
@@ -71,7 +71,7 @@ Xudong Lin and
 Chenguang Zhu and
 Michael Zeng and
 Heng Ji and
-Shih{-}Fu Chang* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L94-L111)<br> ```Add a brief note under the bib entry
+Shih{-}Fu Chang* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L93-L110)<br> ```This paper is inspired by CLIP using the Contrast Learning Framework, a method for connecting text and images using event structures
 ```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_Clip_Event_2022```
 - [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://aclanthology.org/2021.findings-emnlp.8) [**Joint Multimedia Event Extraction from Video and Article**](https://aclanthology.org/2021.findings-emnlp.8) , <br> by *Chen, Brian  and
 Lin, Xudong  and
@@ -80,16 +80,16 @@ Li, Manling  and
 Yoshida, Shoya  and
 Chum, Lovish  and
 Ji, Heng  and
-Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L43-L57)<br> ```Add a brief note under the bib entry
-```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Chen_2021_Video```
+Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L30-L45)<br> ```This paper proposes a new task of video multimodal event extraction
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```chen-etal-2021-joint-multimedia-event```
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://aclanthology.org/2020.acl-main.230) [**Cross-media Structured Common Space for Multimedia Event Extraction**](https://aclanthology.org/2020.acl-main.230) , <br> by *Li, Manling  and
 Zareian, Alireza  and
 Zeng, Qi  and
 Whitehead, Spencer  and
 Lu, Di  and
 Ji, Heng  and
-Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L17-L30)<br> ```Add a brief note under the bib entry
-```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_WASE_2020```
+Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L13-L27)<br> ```The first paper to define a multimodal event extraction task
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```li-etal-2020-cross```
 ## Shih-Fu Chang
 
 - [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://aclanthology.org/2021.findings-emnlp.8) [**Joint Multimedia Event Extraction from Video and Article**](https://aclanthology.org/2021.findings-emnlp.8) , <br> by *Chen, Brian  and
@@ -99,17 +99,17 @@ Li, Manling  and
 Yoshida, Shoya  and
 Chum, Lovish  and
 Ji, Heng  and
-Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L43-L57)<br> ```Add a brief note under the bib entry
-```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Chen_2021_Video```
+Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L30-L45)<br> ```This paper proposes a new task of video multimodal event extraction
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```chen-etal-2021-joint-multimedia-event```
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://aclanthology.org/2020.acl-main.230) [**Cross-media Structured Common Space for Multimedia Event Extraction**](https://aclanthology.org/2020.acl-main.230) , <br> by *Li, Manling  and
 Zareian, Alireza  and
 Zeng, Qi  and
 Whitehead, Spencer  and
 Lu, Di  and
 Ji, Heng  and
-Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L17-L30)<br> ```Add a brief note under the bib entry
-```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_WASE_2020```
-- [![](https://img.shields.io/badge/MM-2017-blue)](https://doi.org/10.1145/3123266.3123294) [**Improving Event Extraction via Multimodal Integration**](https://doi.org/10.1145/3123266.3123294) , <br> by *Zhang, Tongtao, Whitehead, Spencer, Zhang, Hanwang, Li, Hongzhi, Ellis, Joseph, Huang, Lifu, Liu, Wei, Ji, Heng and Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L6-L14)<br> ```Add a brief note under the bib entry
+Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L13-L27)<br> ```The first paper to define a multimodal event extraction task
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```li-etal-2020-cross```
+- [![](https://img.shields.io/badge/MM-2017-blue)](https://doi.org/10.1145/3123266.3123294) [**Improving Event Extraction via Multimodal Integration**](https://doi.org/10.1145/3123266.3123294) , <br> by *Zhang, Tongtao, Whitehead, Spencer, Zhang, Hanwang, Li, Hongzhi, Ellis, Joseph, Huang, Lifu, Liu, Wei, Ji, Heng and Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L2-L10)<br> ```The first paper to do multimodal event extraction
 ```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Zhang_VAD_2017```
 ## Xudong Lin
 
@@ -121,7 +121,7 @@ Xudong Lin and
 Chenguang Zhu and
 Michael Zeng and
 Heng Ji and
-Shih{-}Fu Chang* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L94-L111)<br> ```Add a brief note under the bib entry
+Shih{-}Fu Chang* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L93-L110)<br> ```This paper is inspired by CLIP using the Contrast Learning Framework, a method for connecting text and images using event structures
 ```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_Clip_Event_2022```
 - [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://aclanthology.org/2021.findings-emnlp.8) [**Joint Multimedia Event Extraction from Video and Article**](https://aclanthology.org/2021.findings-emnlp.8) , <br> by *Chen, Brian  and
 Lin, Xudong  and
@@ -130,8 +130,8 @@ Li, Manling  and
 Yoshida, Shoya  and
 Chum, Lovish  and
 Ji, Heng  and
-Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L43-L57)<br> ```Add a brief note under the bib entry
-```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Chen_2021_Video```
+Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L30-L45)<br> ```This paper proposes a new task of video multimodal event extraction
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```chen-etal-2021-joint-multimedia-event```
 ## Spencer Whitehead
 
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://aclanthology.org/2020.acl-main.230) [**Cross-media Structured Common Space for Multimedia Event Extraction**](https://aclanthology.org/2020.acl-main.230) , <br> by *Li, Manling  and
@@ -140,7 +140,7 @@ Zeng, Qi  and
 Whitehead, Spencer  and
 Lu, Di  and
 Ji, Heng  and
-Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L17-L30)<br> ```Add a brief note under the bib entry
-```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Li_WASE_2020```
-- [![](https://img.shields.io/badge/MM-2017-blue)](https://doi.org/10.1145/3123266.3123294) [**Improving Event Extraction via Multimodal Integration**](https://doi.org/10.1145/3123266.3123294) , <br> by *Zhang, Tongtao, Whitehead, Spencer, Zhang, Hanwang, Li, Hongzhi, Ellis, Joseph, Huang, Lifu, Liu, Wei, Ji, Heng and Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L6-L14)<br> ```Add a brief note under the bib entry
+Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L13-L27)<br> ```The first paper to define a multimodal event extraction task
+```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```li-etal-2020-cross```
+- [![](https://img.shields.io/badge/MM-2017-blue)](https://doi.org/10.1145/3123266.3123294) [**Improving Event Extraction via Multimodal Integration**](https://doi.org/10.1145/3123266.3123294) , <br> by *Zhang, Tongtao, Whitehead, Spencer, Zhang, Hanwang, Li, Hongzhi, Ellis, Joseph, Huang, Lifu, Liu, Wei, Ji, Heng and Chang, Shih-Fu* [[bib]](https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//./bibtex.bib#L2-L10)<br> ```The first paper to do multimodal event extraction
 ```</details><details><summary><img src=https://github.com/JingqiKang/Multi-modal-Information-Extraction/blob/main//scripts/svg/copy_icon.png height="20"></summary><pre>```Zhang_VAD_2017```

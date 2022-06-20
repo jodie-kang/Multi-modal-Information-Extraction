@@ -3,7 +3,7 @@ This repository is maintained by [Tongtong Wu](http://wutong8023.site/) and [Jin
 
 The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
-You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/rgscdxhxbwhp).
+You can directly use our bibtex.bib in overleaf with this [link](https://www.overleaf.com/read/gszxbvbkprfs).
 
 This page categorizes the literature by the **Metrics**.
 
